@@ -29,6 +29,7 @@ namespace BookManaging
             //sorting
             bl.sortBookList("title");
             Console.WriteLine("Linh dep trai");
+            Console.WriteLine("Chinh Dep Trai");
             Console.ReadLine();
         }
     }
