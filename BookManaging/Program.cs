@@ -31,7 +31,7 @@ namespace BookManaging
             Console.WriteLine("Linh dep trai");
             Console.WriteLine("Chinh Dep Trai");
             Console.WriteLine("Chinh Chinh!");
-            Console.WriteLine("Tucute!");
+            Console.WriteLine("Tu dz");
             Console.ReadLine();
         }
     }
